@@ -1,6 +1,10 @@
 # AMUSE: Adaptive Model Updating Using a Simulated Environment
 Code for AMUSE
 
+## License
+
+This code is released under the MIT License. See `LICENSE` for details.
+
 ## Code
 
 All code was run in Python 3.10.1
